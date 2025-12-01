@@ -1,4 +1,4 @@
-# 🖧 Packet Tracer | Device Deployment & Network Cabling Lab
+# 🖧 Device Deployment & Network Cabling Lab
 📄 **Full Lab Report (Google Doc):**  
 👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/blob/main/Name_%20Pelumi%20Johnson_Per%20Scholas%20cisco%20packet%20tracer.pdf)
 
