@@ -30,7 +30,7 @@ Right-side wiring:
 
 Link lights turned amber, then green, confirming physical connectivity.
 
-![Home Network Diagram](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/Screenshot%202025-11-28%20012506.png)
+![Home Network Diagram](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/blob/main/Screenshot%202025-11-30%20190442.png)
 
 ### 3. Connected Switches Together (Cross-Over Cable)
 Linked Switch0 and Switch1 using a Copper Cross-Over cable on GigabitEthernet0/1. This forms a proper switch-to-switch uplink, allowing both sides of the network to communicate.
