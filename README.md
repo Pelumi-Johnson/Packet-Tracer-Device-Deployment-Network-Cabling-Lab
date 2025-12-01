@@ -1,7 +1,7 @@
 # 🖧 Packet Tracer | Device Deployment & Network Cabling Lab
 📄 **Full Lab Report (Google Doc):**  
 👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/1.5.4%20Lab%20-%20My%20Local%20Network-1.docx%20(1).pdf)
-# 🖧 Packet Tracer | Deploy and Cable Network Devices
+
 
 ## 📘 Project Summary
 This lab demonstrates how to deploy network devices and correctly cable them in Cisco Packet Tracer. I placed multiple PCs, added Cisco 2960 switches, and connected all devices using the proper Ethernet cable types. The goal was to build a functional Layer 2 network, practice interface selection, and understand physical connectivity concepts used in real-world IT and networking roles.
