@@ -1,6 +1,6 @@
 # 🖧 Packet Tracer | Device Deployment & Network Cabling Lab
 📄 **Full Lab Report (Google Doc):**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-My-Local-Network-Home-Topology-Lab/blob/main/1.5.4%20Lab%20-%20My%20Local%20Network-1.docx%20(1).pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Packet-Tracer-Device-Deployment-Network-Cabling-Lab/blob/main/Name_%20Pelumi%20Johnson_Per%20Scholas%20cisco%20packet%20tracer.pdf)
 
 
 ## 📘 Project Summary
